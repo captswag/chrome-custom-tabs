@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chrome Custom Tabs</string>
+    <string name="prefetch_content">Prefetch Content</string>
+    <string name="open_in_chrome_custom_tabs">Open in Chrome Custom Tabs</string>
+    <string name="open_in_webview">Open in WebView</string>
+    <string name="open_in_chrome">Open in Chrome</string>
+</resources>
