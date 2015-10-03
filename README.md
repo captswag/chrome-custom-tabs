@@ -1,5 +1,7 @@
 # Chrome Custom Tabs
 
+**[Tutorial on my blog](http://anjithsasindran.in/blog/2015/09/28/chrome-custom-tabs/)**
+
 Sample code, which demonstrates the usage of Chrome Custom Tabs with action buttons,
 menu items and compares it with opening a webpage in Chrome Browser and WebView. 
 
